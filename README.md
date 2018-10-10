@@ -5,11 +5,11 @@ The main file of this framework is "DTW_granger_cause.m".
 
 Varible-Lag Granger Causality using DTW
 Developer: Chainarong Amornbunchornvej, UIC, 2018
-Revised code based on [*] by Chandler Lutz
-We use the HSIC Independence test in [*2] by Arthur Gretton, 2007.
+Revised code based on * by Chandler Lutz
+We use the HSIC Independence test in ** by Arthur Gretton, 2007.
 
-[*] https://www.mathworks.com/matlabcentral/fileexchange/25467-granger-causality-test
-[*2] http://people.kyb.tuebingen.mpg.de/arthur/indep.htm
+*https://www.mathworks.com/matlabcentral/fileexchange/25467-granger-causality-test
+** http://people.kyb.tuebingen.mpg.de/arthur/indep.htm
  Acknowledgements:
    This code cannot be developed without the based-code by Chandler Lutz.
    I would like to thank Chandler Lutz, Arthur Gretton to provide the public code, 
