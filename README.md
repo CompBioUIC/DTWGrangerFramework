@@ -32,6 +32,5 @@ We use the HSIC Independence test in [*2] by Arthur Gretton, 2007.
  OUTPUT: BICres =1 if BIC of  regression of x on x,y past is greater than
  regression of x on x past, otherwise zero.
  OUTPUT: pval is a p-value of f-test
- OUTPUT:  threshIndp is the threshold of independence test w.r.t. alpha, testStatIndp is the value from data
- ;notIndp =1 if testStatIndp>threshIndp
+ OUTPUT:  threshIndp is the threshold of independence test w.r.t. alpha, testStatIndp is the value from data;notIndp =1 if testStatIndp>threshIndp
 ============
